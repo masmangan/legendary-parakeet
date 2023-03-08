@@ -1,18 +1,22 @@
 @domain
-Feature: TODO
+Feature: Listing Owners
 
 Narrative:
 
-In order to TODO
-As a TODO
-I want to TODO
+In order to service a owner
+As a fron-desk clerk
+I want to list owner information
 
-Scenario Outline: TODO
+Scenario Outline: List a single owner
 
-Given TODO
-And TODO
-When TODO
-Then TODO
+Given a test database
+And owner name must contain <Name>
+When an owner listing is required
+Then Name is <Name>
+And Address is <Address>
+And City is <City>
+And Telephone is <Telephone>
+And Pets is <Pets>
 
 Examples: 
 | Name | Address | City | Telephone | Pets |
