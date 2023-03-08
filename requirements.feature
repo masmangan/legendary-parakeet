@@ -14,4 +14,6 @@ And TODO
 When TODO
 Then TODO
 
-Examples: TODO
+Examples: 
+| Name | Address | City | Telephone | Pets |
+|George Franklin | 101 W. Liberty St.| Madison | 6085551023 | Leo |
