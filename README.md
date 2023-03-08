@@ -12,4 +12,4 @@ https://github.com/spring-petclinic/spring-petclinic-rest
 
 ## Unified Modeling Language
 
-https://user-images.githubusercontent.com/595430/223873556-14018bb1-4d66-4ffb-b4b6-6242392d3d43.png
+![image](https://user-images.githubusercontent.com/595430/223873976-300f8e93-f1d8-44bd-97be-054b2ebd9ec7.png)
