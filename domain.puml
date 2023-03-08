@@ -1,10 +1,18 @@
 @startuml
 class Visit
 class Pet
+Visit ... Pet
+
 class Owner
+Owner ... Pet
+
 class Type
+Pet .. Type
+
 class User
 class Role
+User ... Role
 class Vet
 class Specialty
+Vet .. Specialty
 @enduml
