@@ -1,0 +1,5 @@
+@startuml
+class Visit
+class Pet
+class Owner
+@enduml
