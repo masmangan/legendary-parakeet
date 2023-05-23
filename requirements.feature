@@ -3,7 +3,7 @@ Feature: Listing Owners
 
 Narrative:
 
-In order to service a owner
+In order to service an owner
 As a fron-desk clerk
 I want to list owner information
 
